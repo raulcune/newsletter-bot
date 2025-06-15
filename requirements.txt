@@ -1,0 +1,7 @@
+feedparser
+beautifulsoup4
+openai
+Jinja2
+requests
+mailgun-python   # o sendinblue-sdk, según tu preferencia de envío
+env
